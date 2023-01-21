@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 330198df3389a4083b11fcf8373c2c2d, type: 3}
+  m_Name: CharacterDatabase
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Magician
+    characterSprite: {fileID: 21300000, guid: 8c6f9e614f8f74d459feb845f532ca67, type: 3}
+    playerObject: {fileID: 2441304578980117268, guid: b8265d6d1ce44514c9cbb8330c784250,
+      type: 3}
+  - characterName: Soldier
+    characterSprite: {fileID: 21300000, guid: c081a5182796549d2836302ba2d8cd59, type: 3}
+    playerObject: {fileID: 6988928106261829270, guid: dd66d04ae97cf084e9fdf8ec259068f5,
+      type: 3}
