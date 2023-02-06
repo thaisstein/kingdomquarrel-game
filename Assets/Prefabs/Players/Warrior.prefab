@@ -1423,7 +1423,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 441140181042d5c468021bfb59baa469, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 13
+  movementSpeed: 10
   isLookAtEnabled: 1
 --- !u!114 &4792840937936836149
 MonoBehaviour:

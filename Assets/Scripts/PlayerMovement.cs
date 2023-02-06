@@ -49,7 +49,7 @@ public class PlayerMovement : MonoBehaviour
         anim.SetBool("Run", false);
 
             // Déplacement
-        if (Input.GetKey(KeyCode.Z))
+        if (Input.GetKey(KeyCode.W))
         {
             anim.SetBool("Run", true);
             playerRigidbody.MovePosition(playerTransform.position + Vector3.forward * movementSpeed * Time.deltaTime);
@@ -59,7 +59,7 @@ public class PlayerMovement : MonoBehaviour
             anim.SetBool("Run", true);
             playerRigidbody.MovePosition(playerTransform.position + Vector3.back * movementSpeed * Time.deltaTime);
         }
-        if (Input.GetKey(KeyCode.Q))
+        if (Input.GetKey(KeyCode.A))
         {
             anim.SetBool("Run", true);
             playerRigidbody.MovePosition(playerTransform.position + Vector3.left * movementSpeed * Time.deltaTime);

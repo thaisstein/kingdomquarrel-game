@@ -437,7 +437,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f1f81aaf15e82c5488dfb2c79a20909f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  detectDistance: 6.7
+  detectDistance: 50
   attackDistance: 4.4
   agent: {fileID: 6988928105764672503}
   soldierMgr: {fileID: 0}

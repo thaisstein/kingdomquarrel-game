@@ -27,6 +27,7 @@ public class GameManager : MonoBehaviour
         {
             Destroy(this);
         }
+
     }
 
     // Caractéristiques du joueur

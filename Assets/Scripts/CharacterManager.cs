@@ -75,7 +75,7 @@ public class CharacterManager : MonoBehaviour
     {
         int sceneIndex = UnityEngine.Random.Range(2, 5);
         Debug.Log("go to " + sceneIndex);
-        sceneIndex = 4;
+        sceneIndex = 3;
         SceneManager.LoadScene(sceneIndex);
     }
 }

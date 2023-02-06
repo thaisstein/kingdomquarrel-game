@@ -370,7 +370,6 @@ GameObject:
   - component: {fileID: 2441304578980150722}
   - component: {fileID: 2441304578980150726}
   - component: {fileID: 2441304578980150727}
-  - component: {fileID: 635549987}
   m_Layer: 0
   m_Name: Magician
   m_TagString: Player
@@ -498,21 +497,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   movementSpeed: 7
   isLookAtEnabled: 1
---- !u!114 &635549987
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2441304578980117268}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9f43b89dc061543dd814192d586fc196, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  maxHealth: 100
-  currentHealth: 0
-  healthBar: {fileID: 0}
 --- !u!1 &2441304578980117344
 GameObject:
   m_ObjectHideFlags: 0

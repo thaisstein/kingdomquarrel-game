@@ -45,6 +45,10 @@ public class Warrior : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
         swordCollider.enabled = false;
         currentHealth = maxHealth;
+
+        GameObject canvasObject = GameObject.Find("Canvas");
+        Image healthBarImage = canvasObject.GetComponentsInChildren<Image>()[1];
+        healthBar = healthBarImage;
     }
 
     void Update()

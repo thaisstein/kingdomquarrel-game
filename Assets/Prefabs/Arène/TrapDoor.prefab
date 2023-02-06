@@ -171,7 +171,7 @@ GameObject:
   - component: {fileID: 2748468001512792031}
   - component: {fileID: 2860349107584359497}
   m_Layer: 0
-  m_Name: TrapDoor (1)
+  m_Name: TrapDoor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -184,7 +184,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2861986317766070913}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -4.0229154, y: -7.5940003, z: 20.70377}
   m_LocalScale: {x: 1.2427473, y: 1, z: 1.2717224}
   m_Children:
@@ -236,5 +236,5 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 1.993753, y: 0.14277315, z: 2.0053878}
+  m_Center: {x: 0.0019491756, y: -0.0072643757, z: -0.00000009373845}

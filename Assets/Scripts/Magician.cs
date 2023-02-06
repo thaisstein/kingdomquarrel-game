@@ -32,6 +32,9 @@ public class Magician : MonoBehaviour
     {
         anim = GetComponent<Animator>();
         currentHealth = maxHealth;
+        GameObject canvasObject = GameObject.Find("Canvas");
+        Image healthBarImage = canvasObject.GetComponentsInChildren<Image>()[1];
+        healthBar = healthBarImage;
     }
     void Update()
     {
@@ -118,7 +121,7 @@ public class Magician : MonoBehaviour
             GetHit(5);
         }
     }
-    
+
     private void OnTriggerStay(Collider other)
     { 
         if(other.gameObject.tag == "Speel")
