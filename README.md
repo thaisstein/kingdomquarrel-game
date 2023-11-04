@@ -4,9 +4,8 @@ Code related to the final project of the class "Architecture et Moteurs de Jeux 
 ## Description
 In this Hack and Slash game made on C# you can choose to play with a character (the Warrior or the Magician) and go though different waves of enemies while collecting red jewels. 
 The objective is to go through all the waves without dying. The controls are WASD for walking, mouse click to release simple power and space bar to release super power.
-![KG Thumb](https://github.com/thaisstein/kingdomquarrel-game/assets/52481495/1841c571-9a5b-44ba-8fae-3a97f870127f)
-(https://github.com/thaisstein/kingdomquarrel-game/assets/52481495/bfac171f-2c92-4275-b717-361dc7677340)
 
+![KG presentation](https://github.com/thaisstein/kingdomquarrel-game/assets/52481495/bfac171f-2c92-4275-b717-361dc7677340)
 
 ## Features
 
@@ -18,8 +17,8 @@ The objective is to go through all the waves without dying. The controls are WAS
 
 ## DEMO
 - **Link to a YouTube Video of the game demo shown during the project presentation:**
-![KG Thumb](KG Thumb.png)
-(https://youtu.be/6roAZjSJAO4 "Pres")
+![KG Thumb](https://github.com/thaisstein/kingdomquarrel-game/assets/52481495/1841c571-9a5b-44ba-8fae-3a97f870127f)
+(https://youtu.be/6roAZjSJAO4 "KG Thumb")
 
 ## Installation
 
