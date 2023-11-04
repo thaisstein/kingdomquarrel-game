@@ -17,8 +17,7 @@ The objective is to go through all the waves without dying. The controls are WAS
 
 ## DEMO
 - **Link to a YouTube Video of the game demo shown during the project presentation:**
-[![KG Thumb](KG Thumb.png)
-](https://youtu.be/6roAZjSJAO4 "KG Thumb")
+[![KG Thumb](KG Thumb.png)](https://youtu.be/6roAZjSJAO4 "KG Thumb")
 
 ## Installation
 
