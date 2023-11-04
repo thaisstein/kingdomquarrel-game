@@ -4,7 +4,7 @@ Code related to the final project of the class "Architecture et Moteurs de Jeux 
 ## Description
 In this Hack and Slash game made on C# you can choose to play with a character (the Warrior or the Magician) and go though different waves of enemies while collecting red jewels. 
 The objective is to go through all the waves without dying. The controls are WASD for walking, mouse click to release simple power and space bar to release super power.
-![Game DEMO](KG presentation.png)
+![Game PRES](KG presentation.png)
 
 ## Features
 
@@ -16,7 +16,6 @@ The objective is to go through all the waves without dying. The controls are WAS
 
 ## DEMO
 - **Link to a YouTube Video of the game demo shown during the project presentation:**
-[![Everything Is AWESOME](KG Thumb.png)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://youtu.be/6roAZjSJAO4) "Everything Is AWESOME")
 [![Game DEMO](KG Thumb.png)](https://youtu.be/6roAZjSJAO4 "Game DEMO")
 
 ## Installation
