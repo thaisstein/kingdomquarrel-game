@@ -18,7 +18,7 @@ The objective is to go through all the waves without dying. The controls are WAS
 ## DEMO
 - **Link to a YouTube Video of the game demo shown during the project presentation:**
 [![KG Thumb](https://github.com/thaisstein/kingdomquarrel-game/assets/52481495/cc2318df-9829-4c01-8a3a-de3689625883)
-](https://youtu.be/6roAZjSJAO4 "Game DEMO")
+](https://youtu.be/6roAZjSJAO4 "KG Thumb")
 
 ## Installation
 
